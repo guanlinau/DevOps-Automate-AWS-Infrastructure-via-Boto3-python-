@@ -1,0 +1,6 @@
+DevOps-Automate-AWS-Infrastructure-by-Terraform/.terraform/*
+
+DevOps-Automate-AWS-Infrastructure-by-Terraform/*.tfstate
+DevOps-Automate-AWS-Infrastructure-by-Terraform/*.tfstate.*
+DevOps-Automate-AWS-Infrastructure-by-Terraform/*.tfvars
+.DS_Store
